@@ -1,0 +1,107 @@
+===== Nazwa mapy =====
+Bitwa pod Beresteczkiem
+
+===== Opis mapy =====
+Bitwa pomiêdzy wojskami polskimi, a Kozakami w trakcie powstanie Chmielnickiego.	60 tysiêcy ¿o³nierzy armii królewskiej vs 100 tysiêcy wojska kozacko-tatarskiego.
+
+===== Pog³oski =====
+
+===== Zdarzenia czasowe =====
+
+===== Heroes =====
+
+===== Obiekty =====
+
+(8, 18, 0) ***Zamek***
+Nazwa:
+Beresteczko
+
+(81, 30, 0) ***Zamek***
+Nazwa:
+Plaszowa
+
+(98, 94, 0) ***Zamek***
+Nazwa:
+Ostrów
+
+(16, 1, 0) ***Tabliczka***
+Wiadomoœæ:
+Do £ucka.
+
+(41, 24, 0) ***Tabliczka***
+Wiadomoœæ:
+Rzeka Plaszówka.
+
+(80, 32, 0) ***Tabliczka***
+Wiadomoœæ:
+Ostrów.
+
+(94, 29, 0) ***Tabliczka***
+Wiadomoœæ:
+Do Dubna.
+
+(70, 16, 0) ***Tabliczka***
+Wiadomoœæ:
+Rzeka Styr.
+
+(9, 21, 0) ***Tabliczka***
+Wiadomoœæ:
+Beresteczko.
+
+(26, 16, 0) ***Tabliczka***
+Wiadomoœæ:
+Armia Jeremiego Wiœniowieckiego.
+
+(15, 31, 0) ***Tabliczka***
+Wiadomoœæ:
+Armia króla Jana Kazimierza.
+
+(6, 27, 0) ***Tabliczka***
+Wiadomoœæ:
+Armia Stanis³awa Lanckoroñskiego.
+
+(16, 35, 0) ***Rycerz***
+Nazwa:
+Król Jan
+
+(8, 30, 0) ***Rycerz***
+Nazwa:
+Lanckoroñski
+
+(27, 21, 0) ***Rycerz***
+Nazwa:
+Wiœniowiecki
+
+(44, 63, 0) ***Rycerz***
+Nazwa:
+Wata¿ka 1
+
+(44, 68, 0) ***Rycerz***
+Nazwa:
+Chmielnicki
+
+(40, 66, 0) ***Rycerz***
+Nazwa:
+Wata¿ka 2
+
+(42, 61, 0) ***Rycerz***
+Nazwa:
+Wata¿ka 4
+
+(37, 64, 0) ***Rycerz***
+Nazwa:
+Wata¿ka 3
+
+(26, 64, 0) ***£owca***
+Nazwa:
+Wata¿ka 5
+
+(29, 63, 0) ***£owca***
+Nazwa:
+Wata¿ka 6
+
+(51, 52, 0) ***£owca***
+Nazwa:
+Wata¿ka 5
+
+===== Koniec pliku =====
